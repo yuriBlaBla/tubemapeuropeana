@@ -1,0 +1,5 @@
+Percorsi consentiti
+
+http://localhost:9200/topic_sirbec/Romanticismo Italiano
+
+http://localhost:9200/topic_sirbec/La Rivoluzione industriale e le innovazioni tecniche

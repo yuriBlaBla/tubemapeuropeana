@@ -1,0 +1,73 @@
+#tubeMap{
+	width: 100%;
+	height: 100vh;
+}
+
+#legenda{
+	position: absolute;
+    bottom: 0px;
+    padding: 20px;
+    border: solid 1px darkgray;
+    border-radius: 4px;
+    font-size:12px;
+    background: white;
+}
+
+#legenda .line{
+	display: flex;
+	margin-bottom: 10px;
+}
+
+#legenda .line:last-child{
+	margin-bottom: 0;
+}
+
+#legenda .line .dot{
+	width: 14px;
+	height: 14px;
+	margin-right: 10px;
+}
+
+text[fill="#10137E"]{
+	cursor: pointer
+}
+#modal{
+	width: 300px;
+	height: 400px;
+	background: white;
+	border-radius: 4px;
+	border:solid 1px darkgrey;
+	position: fixed;
+	top:calc(50% - 200px);
+	left: calc(50% - 150px);
+	display: none;
+}
+#modal #imageheader img{
+	width: 100%;
+	height: 150px;
+	object-fit: cover;
+	cursor: pointer;
+}
+#modal #titlemodal{
+	padding:20px;
+}
+#modal #modalparagraph{
+	padding:20px;
+}
+
+#modal span{
+	cursor:pointer;
+    position: absolute;
+    top: 0;
+}
+
+button#download {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+    background: white;
+    padding: 10px 15px 10px 15px;
+    border-radius: 35px;
+    border: solid 1px darkgrey;
+    cursor: pointer;
+}

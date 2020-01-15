@@ -1,0 +1,25 @@
+'bcbe3d66-9173-4ae8-849c-328920c1a32e' Palazzo Morando POI
+'412bfbeb-025f-4f02-ac29-eae8e4c7a213' Museo della Certosa di Pavia POI
+'16752375-0500-4175-a879-036a5d24b2e4' Casa Museo Boschi di Stefano POI
+'afb7049d-6c9f-40b2-b0ac-7643b407589f' Civico museo-studio Francesco Messina POI 	(????)
+'499cbece-38b1-4758-80c2-7579fff40e64' Pirelli Hangar Bicocca POI					(????)
+'88c5b754-7f8e-4162-be88-63ecdfd12839'
+'48456cdb-a24e-4815-b394-ee6786993435'
+'72775442-ba7c-46be-9fcf-6e0bb5ecd2ee'
+'c90c0068-c748-4b53-8c78-ab39eed1c9af'
+'cf4bf0cc-1dbc-4a81-8912-e1b38ff2d416'
+'4b174e16-25cc-469b-b5d4-5dd8744a507b'
+'bc38e3dc-1d34-47b3-b6d6-90996cf643a3'
+'02603f86-1dd6-439e-a0fe-734444259897'
+'a19ec9ad-17af-4e1b-a2e6-1d365bf85c21'
+'16c483c2-5404-495f-a6f9-da1f5171fed4'
+'ff749b2c-93a5-46af-ada4-795da2138a44'
+'6db25fc3-fa06-4e4d-b0b3-cd62c29a09d9'
+'c24e363b-9247-4ffa-86ff-2b85a4e0de0c'
+'09648a60-8076-4193-81e7-14489069d59c'
+'f6bf850a-a651-4679-bb1c-b3599a399148'
+'0de871bd-6d54-45b1-bda4-5945889d2309'
+'f72143a5-644c-4642-87e4-b7b628508dd6'
+'9521c4bf-b31d-4bdf-849c-6db8210060e2'
+'2abd7a28-cc14-4c35-b58b-c55fdadc31dc'
+'4473a08c-5c9d-4a1b-8fa8-9aa3413ec45a'
